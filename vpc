@@ -1,3 +1,4 @@
 This is VPC Page 
 vpc      : 
 cidr     : 192.168.0.0/16
+subnet 	 : 192.168.10.0/24
