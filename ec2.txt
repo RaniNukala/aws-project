@@ -1,0 +1,7 @@
+Instance
+instance_id
+ami
+instance_type
+key_name
+vpc_security_group_ids
+
