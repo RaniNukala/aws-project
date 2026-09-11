@@ -1,7 +1,0 @@
-Instance
-instance_id            : i-ht3uyeghuye
-ami		       : ami-bgdeyjtyegjehrg
-instance_type	       : t3.micro
-key_name	       : rani
-vpc_security_group_ids : my-sg
-
